@@ -1,0 +1,16 @@
+* {
+  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+    font-family: "IBM Plex Serif", serif;
+
+
+}
+
+body {
+
+  min-height: 100vw;
+  width:100vw ;
+  background:linear-gradient(135deg, #A8F0ED 0%, #E0F9F8 50%, #EBFBFA 100%);
+}
